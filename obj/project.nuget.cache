@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rR8yiIMNCAynWnZG0byzKLO8ph1Ge/b/S6nQA5TQJ41VfX6YsASJhBBbdRalaK0ZL4+pcoSAS6qD23dj7za1hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Quinn\\Downloads\\Media Libary Lab\\Media Libary Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quinn\\.nuget\\packages\\nlog\\5.1.1\\nlog.5.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

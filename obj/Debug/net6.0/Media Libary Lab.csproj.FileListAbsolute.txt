@@ -1,0 +1,17 @@
+C:\Users\Quinn\Downloads\Media Libary Lab\obj\Debug\net6.0\Media Libary Lab.csproj.AssemblyReference.cache
+C:\Users\Quinn\Downloads\Media Libary Lab\obj\Debug\net6.0\Media Libary Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quinn\Downloads\Media Libary Lab\obj\Debug\net6.0\Media Libary Lab.AssemblyInfoInputs.cache
+C:\Users\Quinn\Downloads\Media Libary Lab\obj\Debug\net6.0\Media Libary Lab.AssemblyInfo.cs
+C:\Users\Quinn\Downloads\Media Libary Lab\obj\Debug\net6.0\Media Libary Lab.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\Downloads\Media Libary Lab\bin\Debug\net6.0\Media Libary Lab.exe
+C:\Users\Quinn\Downloads\Media Libary Lab\bin\Debug\net6.0\Media Libary Lab.deps.json
+C:\Users\Quinn\Downloads\Media Libary Lab\bin\Debug\net6.0\Media Libary Lab.runtimeconfig.json
+C:\Users\Quinn\Downloads\Media Libary Lab\bin\Debug\net6.0\Media Libary Lab.dll
+C:\Users\Quinn\Downloads\Media Libary Lab\bin\Debug\net6.0\Media Libary Lab.pdb
+C:\Users\Quinn\Downloads\Media Libary Lab\bin\Debug\net6.0\NLog.dll
+C:\Users\Quinn\Downloads\Media Libary Lab\obj\Debug\net6.0\Media Libary Lab.csproj.CopyComplete
+C:\Users\Quinn\Downloads\Media Libary Lab\obj\Debug\net6.0\Media Libary Lab.dll
+C:\Users\Quinn\Downloads\Media Libary Lab\obj\Debug\net6.0\refint\Media Libary Lab.dll
+C:\Users\Quinn\Downloads\Media Libary Lab\obj\Debug\net6.0\Media Libary Lab.pdb
+C:\Users\Quinn\Downloads\Media Libary Lab\obj\Debug\net6.0\Media Libary Lab.genruntimeconfig.cache
+C:\Users\Quinn\Downloads\Media Libary Lab\obj\Debug\net6.0\ref\Media Libary Lab.dll
