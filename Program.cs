@@ -20,6 +20,7 @@ DateTime today = DateTime.Now;
 string moiveTxt = " ";
 Console.WriteLine("1) Add Movie");
 Console.WriteLine("2) Display All Movies");
+Console.WriteLine("3) Find Movie");
 Console.WriteLine("Enter to quit");
 string resp = Console.ReadLine();
 
@@ -97,6 +98,25 @@ if(resp == "2"){
        
           
  
+}
+if(resp == "3"){
+ Console.ForegroundColor = ConsoleColor.White;
+  MovieFile moviesFile = new MovieFile(scrubbedFile);
+  var moiveSearch = "";
+  Console.WriteLine("Enter title of movie");
+  moiveSearch = Console.ReadLine();
+
+var Moives = moviesFile.Movies.Where(m => m.title.Contains(moiveSearch));
+
+  Console.WriteLine($"There are {Moives.Count()} movies With the title {moiveSearch}");
+
+var titles = movieFile.Movies.Where(m => m.title.Contains(moiveSearch)).Select(m => m.title);
+foreach(string t in titles)
+{
+    Console.WriteLine($"  {t}");
+}
+
+
 }        
 
 logger.Info("Program ended");
