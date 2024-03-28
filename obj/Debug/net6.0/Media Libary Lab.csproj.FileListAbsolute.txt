@@ -15,3 +15,4 @@ C:\Users\Quinn\Downloads\Media Libary Lab\obj\Debug\net6.0\refint\Media Libary L
 C:\Users\Quinn\Downloads\Media Libary Lab\obj\Debug\net6.0\Media Libary Lab.pdb
 C:\Users\Quinn\Downloads\Media Libary Lab\obj\Debug\net6.0\Media Libary Lab.genruntimeconfig.cache
 C:\Users\Quinn\Downloads\Media Libary Lab\obj\Debug\net6.0\ref\Media Libary Lab.dll
+C:\Users\Quinn\Downloads\Media Libary Lab\obj\Debug\net6.0\Media Libary Lab.sourcelink.json

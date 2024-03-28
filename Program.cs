@@ -24,8 +24,8 @@ Console.WriteLine("Enter to quit");
 string resp = Console.ReadLine();
 
 if(resp == "1"){
-
-
+string File = @"C:\Users\Quinn\Downloads\Media Libary Lab\movies.csv";
+using(StreamWriter movieLibary = new StreamWriter(@File, true)){
 
 Console.WriteLine("{0:yyy}.{0:MM}.{0:dd} |INFO|MediaLibrary.Program|User choice: 1", today );
 
@@ -52,7 +52,8 @@ addMovie.year = Console.ReadLine();
         }
       } while (input != "done");
       // specify if no genres are entered
-     
+
+    
 Console.WriteLine("Enter movie director");
 
 addMovie.director = Console.ReadLine();
@@ -63,11 +64,13 @@ addMovie.time = Console.ReadLine();
 
 
 
-string fullMovie =$"ID: Title:{addMovie.title} {addMovie.year}   Director:{addMovie.director} Run time:{addMovie.time} Genres:{addMovie.genre}";
+string fullMovie = string.Format($"ID: 164980\nTitle: {addMovie.title} ({addMovie.year})\nDirector: {addMovie.director}\nRun time: {addMovie.time}\nGenres: {movie.genres}");
 
 Console.WriteLine(fullMovie);
 
+ movieLibary.WriteLine(fullMovie);
 
+}
 
 
 }

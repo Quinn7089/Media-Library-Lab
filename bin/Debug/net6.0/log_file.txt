@@ -151,3 +151,93 @@
 2024-03-27 20:50:05.7908|INFO|Program|movies.scrubbed.csv
 2024-03-27 20:50:05.8149|INFO|MovieFile|Movies in file 9125
 2024-03-27 20:50:26.4536|INFO|Program|Program ended
+2024-03-28 08:25:58.6784|INFO|Program|Program started
+2024-03-28 08:25:58.7050|INFO|FileScrubber|File already scrubbed
+2024-03-28 08:25:58.7050|INFO|Program|movies.scrubbed.csv
+2024-03-28 08:25:58.7313|INFO|MovieFile|Movies in file 9125
+2024-03-28 08:26:06.0549|INFO|Program|Program ended
+2024-03-28 08:33:46.2769|INFO|Program|Program started
+2024-03-28 08:33:46.3037|INFO|FileScrubber|File already scrubbed
+2024-03-28 08:33:46.3037|INFO|Program|movies.scrubbed.csv
+2024-03-28 08:33:46.3318|INFO|MovieFile|Movies in file 9125
+2024-03-28 08:34:13.3829|INFO|Program|Program ended
+2024-03-28 08:35:09.1216|INFO|Program|Program started
+2024-03-28 08:35:09.1562|INFO|FileScrubber|File already scrubbed
+2024-03-28 08:35:09.1562|INFO|Program|movies.scrubbed.csv
+2024-03-28 08:35:09.1819|INFO|MovieFile|Movies in file 9125
+2024-03-28 08:35:34.0669|INFO|Program|Program ended
+2024-03-28 08:36:33.3436|INFO|Program|Program started
+2024-03-28 08:36:33.3677|INFO|FileScrubber|File already scrubbed
+2024-03-28 08:36:33.3677|INFO|Program|movies.scrubbed.csv
+2024-03-28 08:36:33.3912|INFO|MovieFile|Movies in file 9125
+2024-03-28 08:36:59.5203|INFO|Program|Program ended
+2024-03-28 08:37:45.1538|INFO|Program|Program started
+2024-03-28 08:37:45.1862|INFO|FileScrubber|File already scrubbed
+2024-03-28 08:37:45.1862|INFO|Program|movies.scrubbed.csv
+2024-03-28 08:37:45.2213|INFO|MovieFile|Movies in file 9125
+2024-03-28 08:38:14.3935|INFO|Program|Program ended
+2024-03-28 08:39:04.7547|INFO|Program|Program started
+2024-03-28 08:39:04.7797|INFO|FileScrubber|File already scrubbed
+2024-03-28 08:39:04.7803|INFO|Program|movies.scrubbed.csv
+2024-03-28 08:39:04.8037|INFO|MovieFile|Movies in file 9125
+2024-03-28 08:39:29.6221|INFO|Program|Program ended
+2024-03-28 08:42:01.2586|INFO|Program|Program started
+2024-03-28 08:42:01.2826|INFO|FileScrubber|File already scrubbed
+2024-03-28 08:42:01.2826|INFO|Program|movies.scrubbed.csv
+2024-03-28 08:42:01.3068|INFO|MovieFile|Movies in file 9125
+2024-03-28 08:42:52.9457|INFO|Program|Program ended
+2024-03-28 08:43:11.1022|INFO|Program|Program started
+2024-03-28 08:43:11.1273|INFO|FileScrubber|File already scrubbed
+2024-03-28 08:43:11.1273|INFO|Program|movies.scrubbed.csv
+2024-03-28 08:43:11.1508|INFO|MovieFile|Movies in file 9125
+2024-03-28 08:43:41.2010|INFO|Program|Program ended
+2024-03-28 08:44:20.2834|INFO|Program|Program started
+2024-03-28 08:44:20.3077|INFO|FileScrubber|File already scrubbed
+2024-03-28 08:44:20.3077|INFO|Program|movies.scrubbed.csv
+2024-03-28 08:44:20.3343|INFO|MovieFile|Movies in file 9125
+2024-03-28 08:44:28.3271|INFO|Program|Program ended
+2024-03-28 08:44:32.9807|INFO|Program|Program started
+2024-03-28 08:44:33.0052|INFO|FileScrubber|File already scrubbed
+2024-03-28 08:44:33.0052|INFO|Program|movies.scrubbed.csv
+2024-03-28 08:44:33.0300|INFO|MovieFile|Movies in file 9125
+2024-03-28 08:45:08.1246|INFO|Program|Program ended
+2024-03-28 08:45:27.0953|INFO|Program|Program started
+2024-03-28 08:45:27.1169|INFO|FileScrubber|File already scrubbed
+2024-03-28 08:45:27.1169|INFO|Program|movies.scrubbed.csv
+2024-03-28 08:45:27.1440|INFO|MovieFile|Movies in file 9125
+2024-03-28 08:46:00.8506|INFO|Program|Program ended
+2024-03-28 08:50:50.8488|INFO|Program|Program started
+2024-03-28 08:50:50.8748|INFO|FileScrubber|File already scrubbed
+2024-03-28 08:50:50.8748|INFO|Program|movies.scrubbed.csv
+2024-03-28 08:50:50.9000|INFO|MovieFile|Movies in file 9125
+2024-03-28 08:52:27.8036|INFO|Program|Program ended
+2024-03-28 08:52:38.5103|INFO|Program|Program started
+2024-03-28 08:52:38.5327|INFO|FileScrubber|File already scrubbed
+2024-03-28 08:52:38.5327|INFO|Program|movies.scrubbed.csv
+2024-03-28 08:52:38.5575|INFO|MovieFile|Movies in file 9125
+2024-03-28 08:52:40.0120|INFO|Program|Program ended
+2024-03-28 08:56:16.8084|INFO|Program|Program started
+2024-03-28 08:56:16.8306|INFO|FileScrubber|File already scrubbed
+2024-03-28 08:56:16.8306|INFO|Program|movies.scrubbed.csv
+2024-03-28 08:56:16.8566|INFO|MovieFile|Movies in file 9125
+2024-03-28 08:56:18.5628|INFO|Program|Program ended
+2024-03-28 08:58:45.8482|INFO|Program|Program started
+2024-03-28 08:58:45.8723|INFO|FileScrubber|File already scrubbed
+2024-03-28 08:58:45.8723|INFO|Program|movies.scrubbed.csv
+2024-03-28 08:58:45.8961|INFO|MovieFile|Movies in file 9125
+2024-03-28 08:58:47.7079|INFO|Program|Program ended
+2024-03-28 08:58:51.7011|INFO|Program|Program started
+2024-03-28 08:58:51.7248|INFO|FileScrubber|File already scrubbed
+2024-03-28 08:58:51.7248|INFO|Program|movies.scrubbed.csv
+2024-03-28 08:58:51.7480|INFO|MovieFile|Movies in file 9125
+2024-03-28 08:59:40.5988|INFO|Program|Program ended
+2024-03-28 08:59:44.8223|INFO|Program|Program started
+2024-03-28 08:59:44.8461|INFO|FileScrubber|File already scrubbed
+2024-03-28 08:59:44.8461|INFO|Program|movies.scrubbed.csv
+2024-03-28 08:59:44.8703|INFO|MovieFile|Movies in file 9125
+2024-03-28 08:59:46.3658|INFO|Program|Program ended
+2024-03-28 09:01:25.5689|INFO|Program|Program started
+2024-03-28 09:01:25.5903|INFO|FileScrubber|File already scrubbed
+2024-03-28 09:01:25.5903|INFO|Program|movies.scrubbed.csv
+2024-03-28 09:01:25.6146|INFO|MovieFile|Movies in file 9125
+2024-03-28 09:01:27.1744|INFO|Program|Program ended
